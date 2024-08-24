@@ -1,3 +1,3 @@
-## Project Summary
+## Analyzing the relationshop between environmental features and house price using R
 
 As a philanthropist group analyzing the relationship between house values and neighborhood characteristics, this project aims to determine whether whether houses in neighborhoods with desirable characteristics command a higher price. Moreover, we are especialy interested in environmental features, such as proximity to water (i.e. lake, river, or ocean) and air quality. We have obtained information from tens of thousands of neighborhoods throughout the United States (contained in house values.csv along with the variable descriptions in house values description.txt). Here, we perform a statistical analysis and build a statistical model that allows you to test hypotheses of interest, including a discussion of statistical issues that may be caused by omitted variables.
